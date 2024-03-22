@@ -2,7 +2,7 @@
 <body>
     <header id="home">
       <nav class="navbar">
-        <h1>Eventic</h1>
+        <h1>Event Management System</h1>
         <ul>
             <li><a href="#home">Home</a></li>
             <li><a href="#events">Events</a></li>
