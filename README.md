@@ -113,4 +113,28 @@
                 <td>Seminar</td>
                 <td>
                     <button onclick="location.href='event_chart.html';">View Events</button>
-                </
+                    <!DOCTYPE html>
+                    <html>
+                    <head>
+                        <title>Event Management System</title>
+                        <style>
+                            body {
+                                background-image: url("path/to/your-image.jpg");
+                                background-repeat: no-repeat;
+                                background-size: cover;
+                                font-family: Arial, sans-serif;
+                                color: #333;
+                                margin: 0;
+                            }
+                            h1 {
+                                padding: 30px;
+                                background-color: rgba(0, 0, 0, 0.5);
+                                color: #fff;
+                                margin: 0;
+                            }
+                            .container {
+                                max-width: 1200px;
+                                margin: 0 auto;
+                                padding: 30px;
+                            }
+                        </style>
